@@ -139,7 +139,7 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 </table>
 
 <br/>
--->
+
 <!-- ============================ FEATURED PROJECTS ============================ -->
 <!--
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDdlYjVndXFqdjBhcGttYjA2c2NncGNiZGRmazNkOXkydmlqNG9jeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o7TKr3nzbh5WgCFxe/giphy.gif" width="32" /></picture>  Featured Projects
@@ -289,7 +289,6 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 - 🎖️ **Scholarships & Distinctions**
   - 💎 **PEEF Scholarship** for talented students (High School).
   - 🎯 **Merit-Based Scholarship** — 70% fee waiver throughout Bachelor's at GIFT University.
-  - 💰 **Ignite Funding For FYP**
 
 <br/>
 
