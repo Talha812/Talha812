@@ -8,9 +8,11 @@
 
 <!-- ============================ HERO BANNER ============================ -->
 
-<a href="https://github.com/Talha812">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Talha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Researcher%20•%20Educator&descSize=18&descAlignY=60&descAlign=50" alt="banner" />
-</a>
+<p align="center">
+  <a href="https://github.com/Talha812">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Talha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Researcher%20•%20Educator&descSize=18&descAlignY=60&descAlign=50" alt="Muhammad Talha — banner" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammmad-talha">
@@ -20,10 +22,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammmad-talha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://engr-muhammad-talha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:engr.muhammadtalha.grad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/MuhammadTalha/"><img src="https://img.shields.io/badge/LeetCode-680%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://digital-library.theiet.org/doi/10.1049/icp.2025.1117"><img src="https://img.shields.io/badge/Research-IET%20DOI-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Talha812&style=for-the-badge&color=blueviolet&label=Profile+Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=Talha812&style=for-the-badge&color=blueviolet&label=Profile+Views" /> -->
 </p>
 
 <br/>
@@ -352,7 +355,6 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 <br/>
 
 <!-- ============================ FOOTER ============================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
-
-<p align="center"><i>“Build with intention. Teach with empathy. Research with rigor.”</i></p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20meaningful&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="footer" />
+</p>
