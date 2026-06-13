@@ -10,13 +10,14 @@
 
 <p align="center">
   <a href="https://github.com/Talha812">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Talha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Educator•%20AI%20Researcher%20&descSize=18&descAlignY=60&descAlign=50" alt="Muhammad Talha — banner" />
+    <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Talha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Educator•%20AI%20Researcher%20&descSize=18&descAlignY=60&descAlign=50" alt="Muhammad Talha — banner" /> -->
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38BDF8&height=220&section=header&text=Muhammad%20Talha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Educator%20•%20AI%20Researcher&descSize=18&descAlignY=60" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammmad-talha">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&lines=Building+intelligent+systems+with+AI+%26+Full-Stack+craft;Published+Researcher+%E2%80%94+ICEPECC+2025+%7C+IET+Digital+Library;Trainer+%40+Stanford+Code+in+Place+2026;Gold+Medalist+%E2%80%94+CGPA+3.96%2F4.00" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&lines=Building+intelligent+systems+with+AI+%26+Full-Stack+craft;Published+Researcher+%E2%80%94+ICEPECC+2025+%7C+IET+Digital+Library;Trainer+%40+Stanford+Code+in+Place+2026;Gold+Medalist+%E2%80%94+CGPA+3.96%2F4.00" alt="typing intro" />
   </a>
 </p>
 
@@ -37,9 +38,12 @@
 Hi, I’m **Muhammad Talha** — a **Software Engineer**, **Educator**, and **AI Researcher** from Pakistan, and open to global opportunities.
 
 🎓 **Gold Medalist (CGPA 3.96/4.00)**
+
 🔬 **Researcher in Medical Imaging & Deep Learning (ICEPECC-2025 published)**
+
 🚀 **Building AI systems** (RAG, voice agents, clinical AI tools)
-👨‍🏫 Trainer of **25,000+ engineers** (iCodeGuru · PakAngels · ASPIRE Pakistan · HEC · PEC · NCEAC)
+
+👨‍🏫 Mentored **25,000+ engineers** (iCodeGuru · PakAngels · ASPIRE Pakistan · HEC · PEC · NCEAC)
 
   - 💼 **Software Engineer** | **Lead Trainer & Moderator @iCodeGuru @PakAngels** | **Section Leader @ Stanford Code in Place 2026** | **TA/Instructor @ GIFT University** | **Trainer @ WPBrigade**
   - 🤖 **Focus**: Generative AI · LLMs · Medical AI · Agentic Systems
@@ -331,7 +335,7 @@ Hi, I’m **Muhammad Talha** — a **Software Engineer**, **Educator**, and **AI
 -->
 <!-- ============================ CONNECT ============================ -->
 
-## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWFkbXM5aHEwd2N2c3ZyMnIyemt5NGo0d2pkN2V4dzVlczNqaHFucCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jUwpNzg9IcyrK/giphy.gif" width="32" /></picture>  Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammmad-talha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -359,5 +363,6 @@ Hi, I’m **Muhammad Talha** — a **Software Engineer**, **Educator**, and **AI
 
 <!-- ============================ FOOTER ============================ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20meaningful&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="footer" />
+  <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20meaningful&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="footer" /> -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38BDF8&height=120&section=footer&text=Let%27s%20build%20something%20meaningful&fontSize=18&fontColor=ffffff&fontAlignY=75" />
 </p>
