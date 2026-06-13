@@ -48,8 +48,16 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 <br/>
 
 <!-- ============================ TECH STACK ============================ -->
+## 🛠️ My Skill Set :
 
-## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2c4dGUyMHpmcjFqYjE3NXZ0a3l0dndtaXl2OGd2OTcwbnNwYjg1ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iigjs8q5MZyy3LFhTC/giphy.gif" width="32" /></picture>  Tech Stack
+> Tools, languages, and other things I am working with.
+<a href="https://github.com/arhamansari11/">
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,mysql,jwt,firebase,streamlit,python,java,c,csharp,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,opencv,yolo,yarn,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,v0,kaggle,netlify,svg,notion,slack,discord,chatgpt,anaconda,axios,cursor,powershell" />
+</p>
+</a>
+
+<!--## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2c4dGUyMHpmcjFqYjE3NXZ0a3l0dndtaXl2OGd2OTcwbnNwYjg1ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iigjs8q5MZyy3LFhTC/giphy.gif" width="32" /></picture>  Tech Stack
 
 <table align="center">
   <tr>
@@ -131,7 +139,7 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 </table>
 
 <br/>
-
+-->
 <!-- ============================ FEATURED PROJECTS ============================ -->
 
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDdlYjVndXFqdjBhcGttYjA2c2NncGNiZGRmazNkOXkydmlqNG9jeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o7TKr3nzbh5WgCFxe/giphy.gif" width="32" /></picture>  Featured Projects
@@ -212,9 +220,9 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 <br/>
 
 <!-- ============================ GITHUB ANALYTICS (OPTIONAL) ============================ -->
-
+<!-- 
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXMyZjB2OXdkemVneTBxNXM2cmd2NHkwYWJpYTNqemd6ZjBpc3FmaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L8K62iTDkzGX6/giphy.gif" width="32" /></picture>  GitHub Analytics
-
+-->
 <!--
   📊 The widgets below are intentionally commented out.
   Uncomment whichever panels you want to display on your profile.
