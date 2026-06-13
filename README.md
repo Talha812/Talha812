@@ -34,19 +34,20 @@
 <!-- ============================ ABOUT ME ============================ -->
 
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDl3bnFnY2g4eW10NzlsZG12cWNuOWU3aXY4c3J1bjVscGoybjkzeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" /></picture>  About Me
+Hi, I’m **Muhammad Talha** — a **Software Engineer**, **Educator**, and **AI Researcher** from Pakistan, and open to global opportunities.
 
-```yaml
-name:        "Muhammad Talha"
-role:        "Software Engineer • AI Researcher • Educator"
-location:    "Gujranwala, Pakistan  →  Open to Global Opportunities"
-education:   "B.Sc. Software Engineering — GIFT University (Gold Medal, CGPA 3.96/4.0)"
-currently:   "Teacher Assistant @ GIFT University • WP / Full-Stack Engineer @ WPBrigade"
-research:    "Attention-Driven Triple Path Residual 3D CNN for Brain Tumor Detection (ICEPECC-2025)"
-learning:    ["Agentic AI", "LLM Fine-tuning", "MLOps", "System Design"]
-collaborate: ["AI for Healthcare", "Generative AI products", "Open-source education"]
-ask_me:      ["Python", "Deep Learning", "RAG Systems", "Full-Stack Development"]
-fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
-```
+🎓 **Gold Medalist (CGPA 3.96/4.00)**
+🔬 **Researcher in Medical Imaging & Deep Learning (ICEPECC-2025 published)**
+🚀 **Building AI systems** (RAG, voice agents, clinical AI tools)
+👨‍🏫 Trainer of **25,000+ engineers** (iCodeGuru · PakAngels · ASPIRE Pakistan · HEC · PEC · NCEAC)
+
+  - 💼 **Software Engineer** | **Lead Trainer & Moderator @iCodeGuru @PakAngels** | **Section Leader @ Stanford Code in Place 2026** | **TA/Instructor @ GIFT University** | **Trainer @ WPBrigade**
+  - 🤖 **Focus**: Generative AI · LLMs · Medical AI · Agentic Systems
+  - 🤝 **Open to**: AI products, healthcare AI, open-source collaboration
+  - 💬 **Ask me about:** Python, Deep Learning, RAG Systems, Full-Stack Development
+  - 🌐 **Portfolio**: [engr-muhammad-talha.vercel.app](https://engr-muhammad-talha.vercel.app/)
+
+<br/>
 
 <br/>
 
@@ -59,6 +60,7 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
   <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,mysql,jwt,firebase,streamlit,python,java,c,csharp,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,opencv,yolo,yarn,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,v0,kaggle,netlify,svg,notion,slack,discord,chatgpt,anaconda,axios,cursor,powershell" />
 </p>
 </a>
+
 
 <!--## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2c4dGUyMHpmcjFqYjE3NXZ0a3l0dndtaXl2OGd2OTcwbnNwYjg1ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iigjs8q5MZyy3LFhTC/giphy.gif" width="32" /></picture>  Tech Stack
 
@@ -253,7 +255,7 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 -->
 
 <br/>
--->
+
 <!-- ============================ ACHIEVEMENTS ============================ -->
 
 <a href="https://github.com/Talha812/">
@@ -263,30 +265,31 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 - 🌟 **Notable Achievements** (Key stats & recognitions across platforms)
 
   - 🏅 **Gold Medalist** — Bachelor of Software Engineering, **GIFT University** (CGPA **3.96/4.0**).
+  - 🎓 **Stanford University** — *Recognized as an [Amazing Programmer](https://drive.google.com/file/d/1U5QsDPTBoFXYZ68FQz6XDER4q0kEl7UB/view?usp=sharing)*; selected as **Trainer / Section Leader** for **[Code in Place 2026](https://codeinplace.stanford.edu/)** (CS-106A).
   - 📚 **Published Researcher** — *Attention-Driven Triple Path Residual 3D CNN for Efficient Brain Tumor Detection* at **ICEPECC-2025**, indexed on **[IET Digital Library (DOI)](https://digital-library.theiet.org/doi/10.1049/icp.2025.1117)**.
   - 💰 **Ignite — National Technology Fund** Grantee for Final Year Project *NeuroInsight AI*.
   - 🧠 **LeetCode**: Solved **[680+](https://leetcode.com/u/MuhammadTalha/)** Data Structures & Algorithms problems.
-  - 🎓 **Stanford University** — *Recognized as an [Amazing Programmer](https://drive.google.com/file/d/1U5QsDPTBoFXYZ68FQz6XDER4q0kEl7UB/view?usp=sharing)*; selected as **Trainer / Section Leader** for **[Code in Place 2026](https://codeinplace.stanford.edu/)** (CS-106A).
 
-- 🧩 **Harvard CS50x Puzzle Day (2023 & 2024)**  🥇 Winner — solved **9/9** puzzles
+- 🧩 **Harvard CS50x Puzzle Day (2023, 2024, 2025 & 2026)**  🥇 Winner — solved **9/9** puzzles
   - 🔗 Certificate: **[View](https://drive.google.com/file/d/1IjCyPA_nD5-82DBbOTmNtow5Dtb_4FI1/view?usp=sharing)**
 
 - 🥇 **Coding Competitions** (Global Challenges & Rankings)
-  - ➤ **Advent of Code (2022 / 2023 / 2024)** — **4th place** on the Pakistan leaderboard. [Certificate](https://drive.google.com/file/d/1WpMf2hUVtpkKrDbBnH6RGqbOkn_eJRqY/view?usp=sharing)
-  - ➤ **Meta Hacker Cup** — Qualifier in **[2023 & 2024](https://drive.google.com/file/d/1e9LiHOSCm5x94_gGQ0g8sMzonS14XUqF/view?usp=drive_link)**.
+  - ➤ **Advent of Code (2022 / 2023 / 2024 / 2025)** — **4th place** on the Pakistan leaderboard. [Certificate](https://drive.google.com/file/d/1WpMf2hUVtpkKrDbBnH6RGqbOkn_eJRqY/view?usp=sharing)
+  - ➤ **Meta Hacker Cup** — Qualifier in **[2023 & 2024 & 2025](https://drive.google.com/file/d/1e9LiHOSCm5x94_gGQ0g8sMzonS14XUqF/view?usp=drive_link)**.
   - ➤ **Google Code Jam 2022** — Qualifier (**71 / 100**). [Certificate](https://drive.google.com/file/d/1cCknINFymb6sFs0xFY0LKMwoMGAYs9yM/view?usp=drive_link)
   - ➤ **World Innovation Hackathon 2023** — 🏆 **[Beginner's Award](https://drive.google.com/file/d/1cJ41iAXUIwai2KtU_Xd_JKQqttiQubsT/view?usp=drive_link)**.
   - ➤ **Generative AI Hackathon 2022** — 🥉 **3rd Place** Qualifier.
   - ➤ **OpenAI Whisper Hackathon** — [Qualifier](https://drive.google.com/file/d/16P3XwO_kHzcENT5k-dVwYn_86S1n1inv/view?usp=drive_link).
 
 - 📢 **Generative AI Program Manager @ PakAngels (Silicon Valley, USA)**
-  - 🌍 Led the **Generative AI Course 10×**, training **20,000+** engineers in collaboration with **Pakistan Engineering Council**, **HEC**, and **NCEAC**. [Proof](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7270723460388048896/)
-  - 🚀 Organized **6× Generative AI Hackathons**, attracting **~300+ submissions** per event from international teams.
+  - 🌍 Led the **Generative AI Course 10×**, training **25,000+** engineers in collaboration with **Pakistan Engineering Council**, **Higher Eductation Commision**, **NCEAC**, **PakAngels**, **iCodeGuru** & **ASPIRE Pakistan**. [Proof](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7270723460388048896/)
+  - 🚀 Organized **10× Generative AI Hackathons**, attracting **~300+ submissions** per event from international teams.
   - 🎓 **Generative AI Leader** playlist — [YouTube Series](https://www.youtube.com/playlist?list=PL-YspQ6UppsffclIuBZcmy5Wevi6Dz7Gi).
 
 - 🎓 **Educator & Trainer @ iCodeGuru, GIFT University, WPBrigade**
-  - 👨‍🏫 **Teacher Assistant / Lab Instructor @ GIFT University** — mentored **200+ students / semester** in Programming Fundamentals, DSA, Information Security and AI.
+  - 🌟 **Section Leader / Trainer** @Stanford Universiry [Code in Place 2026](https://www.linkedin.com/feed/update/urn:li:activity:7467526905710260224/) — Trained **14+ students** Globally from different backgrounds (technical + non-technical)
   - 🐍 Conducted **Python, DSA, Git/GitHub, Machine Learning, Deep Learning, NLP & Generative AI** bootcamps for **8000+ learners** at iCodeGuru.
+  - 👨‍🏫 **Teacher Assistant / Lab Instructor @ GIFT University** — mentored **200+ students / semester** in Programming Fundamentals, Data Structures & Algorithms, Information Security, Artifical Intelligence & Software Design & Architecture.
   - 🎤 Public talks: **[RAG Systems](https://www.youtube.com/live/4y_YJA9WEx8)**, **[Voice-to-Voice AI](https://www.youtube.com/live/mBznR7dKlIU)**, **[AR & VR](https://fb.watch/GLZMnfb4BG/)**, **[Meta Hacker Cup Awareness](https://fb.watch/uGnGUflGBR/)**, **[VS Code Debugger Workshop](https://docs.google.com/presentation/d/1Bul-B0xGe9HKxPEEToDj8zsuykBGnQzd_1QadB5MSkM/edit?usp=sharing)** and **[UMT ICFCS Conference](https://icfcs.umt.edu.pk/Workshops.aspx)**.
 
 - 🎖️ **Scholarships & Distinctions**
