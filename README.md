@@ -141,7 +141,7 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 <br/>
 -->
 <!-- ============================ FEATURED PROJECTS ============================ -->
-
+<!--
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDdlYjVndXFqdjBhcGttYjA2c2NncGNiZGRmazNkOXkydmlqNG9jeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o7TKr3nzbh5WgCFxe/giphy.gif" width="32" /></picture>  Featured Projects
 
 <table>
@@ -250,7 +250,7 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 -->
 
 <br/>
-
+-->
 <!-- ============================ ACHIEVEMENTS ============================ -->
 
 <a href="https://github.com/Talha812/">
@@ -289,12 +289,13 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 - 🎖️ **Scholarships & Distinctions**
   - 💎 **PEEF Scholarship** for talented students (High School).
   - 🎯 **Merit-Based Scholarship** — 70% fee waiver throughout Bachelor's at GIFT University.
+  - 💰 **Ignite Funding For FYP**
 
 <br/>
 
 <!-- ============================ TROPHIES ============================ -->
 
-## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2x1bnUybTl2dnVoOHg2eWE0aXdmazA2NDRkajhqaGdscDRxMG9oeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/26gscLh9TwdMjyTHO/giphy.gif" width="32" /></picture>  Trophies & Certifications
+<!--## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2x1bnUybTl2dnVoOHg2eWE0aXdmazA2NDRkajhqaGdscDRxMG9oeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/26gscLh9TwdMjyTHO/giphy.gif" width="32" /></picture>  Trophies & Certifications
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Talha812&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
@@ -322,7 +323,7 @@ fun_fact:    "Trained 20,000+ engineers in Generative AI across 3 continents."
 </table>
 
 <br/>
-
+-->
 <!-- ============================ CONNECT ============================ -->
 
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWFkbXM5aHEwd2N2c3ZyMnIyemt5NGo0d2pkN2V4dzVlczNqaHFucCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jUwpNzg9IcyrK/giphy.gif" width="32" /></picture>  Connect With Me
